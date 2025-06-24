@@ -1,5 +1,5 @@
 # Second-Task
-   1. I have loaded the new Prepsocessed csv dataset using pandas.
+   1. I have loaded the new Preprocessed csv dataset using pandas.
 
    2. Mean, Medium, Std values are processed.
 
