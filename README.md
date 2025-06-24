@@ -5,7 +5,7 @@
 
    3. Plotted the histogram for all numeric columns.
 
-   4. Done the Box plot of 'Fare' and 'Age'.
+   4. Done the Box plot of 'Fare' and 'Age'. Calculated the no of outliers present in 'Age' and 'Fare'.
 
    5. Done the Pairplot for feature relationship.
 
